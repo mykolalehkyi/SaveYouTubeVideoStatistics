@@ -2,9 +2,9 @@
 Hi, I am Mykola Lehkyi and I am Software Engineer.
 This repository contains a C# Azure Function that retrieves YouTube video statistics and stores them in Azure Blob Storage. The function is triggered every four hours and updates a JSON file with the latest video statistics.
 
-Azure part: https://github.com/mykolalehkyi/SaveYouTubeVideoStatistics/
-Web Api part: https://github.com/mykolalehkyi/YT_Data_Api
-Angular client part: https://github.com/mykolalehkyi/epz-youtube-api 
+Azure part: https://github.com/mykolalehkyi/SaveYouTubeVideoStatistics/ <br/>
+Web Api part: https://github.com/mykolalehkyi/YT_Data_Api <br/>
+Angular client part: https://github.com/mykolalehkyi/epz-youtube-api <br/>
 
 ## Prerequisites
 Before you begin, ensure you have the following:
